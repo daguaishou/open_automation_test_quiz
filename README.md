@@ -21,7 +21,7 @@
 
 * 认真理解题目的要求，若有不明确的地方，可以直接给**nnnlyy**提[issue](https://github.com/nnnlyy/open_automation_quiz/issues)沟通 或 通过HR/Vendor/猎头等反馈
 * 思路清晰，代码规范，尽量完成了更多的任务，针对**项目结构**和**代码质量**进行了完善
-* 尽量提交可以直接运行的项目，至少也应该是可以通过**Maven**构建的 [![Build Status](https://github.com/nnnlyy/open_automation_quiz/workflows/CI/badge.svg)](https://github.com/nnnlyy/open_automation_quiz)
+* 尽量提交可以直接运行的项目，至少也应该是可以通过**Maven**构建的
 * 提交一个规范的Java项目，符合标准的项目结构，根据需求引入必要的依赖并解决冲突，创建必要的文件和配置
 * 项目不依赖于特定的IDE，可以通过命令行或者接口的形式被调用，以便于测试平台或框架级别的引用
 
