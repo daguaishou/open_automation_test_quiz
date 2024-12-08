@@ -27,8 +27,10 @@ jobs:
         java-version: '8'
         distribution: 'temurin'
         cache: maven
-    - name: Maven build clean, build, test and install
+    - name: Maven build clean, build install
       run: mvn clean install -Dmaven.test.skip=true
+    - name: Maven test
+      run: mvn test
      
     # Optional: Uploads the full dependency graph to GitHub to improve the quality of Dependabot alerts this repository can receive
     #- name: Update dependency graph
