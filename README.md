@@ -94,7 +94,7 @@ baidu.com  --> 1
 
 将**第三页**进行**截图**
 点击**提交**按钮
-判断提交后状态
+判断提交后弹框信息
 将**提交结果页**进行**截图**
 
 测试完成后，应生成相应的[HTML](https://cucumber.io/docs/cucumber/reporting/)格式的[测试报告](https://cucumber.io/docs/cucumber/reporting/#built-in-reporter-plugins)
